@@ -39,7 +39,6 @@ int main()
     car->turnLeft();
     car->turnRight();
     cout << endl;
-
-    system("PAUSE");
+    
     return 0;
 }
